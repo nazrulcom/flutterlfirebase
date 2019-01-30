@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783838702565",
+    "firebase_url": "https://myflutterapps.firebaseio.com",
+    "project_id": "myflutterapps",
+    "storage_bucket": "myflutterapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783838702565:android:5586276a0cc83518",
+        "android_client_info": {
+          "package_name": "com.nazrul.flutterappsignuplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783838702565-4qrof1vkoognmk7l0k6fa7b3jbeh4q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQCpij4E48WGdlRTkIDE51wwVukP00U0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
